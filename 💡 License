@@ -1,0 +1,17 @@
+MIT License
+---
+
+## 📦 3. GitHub'ga joylashish tartibi
+
+1. Kompyuteringizda papka oching: `cli-password-generator`
+2. Ichiga `password_generator.cpp` va `README.md` fayllarni joylang
+3. GitHub’da yangi repo yarating (masalan: `cli-password-generator`)
+4. Terminalda quyidagilarni bajaring:
+
+```bash
+cd cli-password-generator
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/medusag2/cli-password-generator.git
+git push -u origin main
